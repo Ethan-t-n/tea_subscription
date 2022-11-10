@@ -25,7 +25,7 @@
 <!-- ABOUT THIS PROJECT -->
 ### About This Project
 ---
-Tea Subscription Service is a Service Oriented Architecture, a Ruby on Rails program built to demo RESTful routes and simple database API solutions. It gives three endpoints and utilizes three separate tables.  
+Tea Subscription Service is a Service Oriented Architecture, a Ruby on Rails program built to demo RESTful routes and simple database API solutions. It gives three endpoints and utilizes three separate tables. This current program can curretnly allow us to view all subscriptions and allows users to create a new subscription annd cancel a subscription.
 
 TABLES AND ATTRIBUTES </br>
 
